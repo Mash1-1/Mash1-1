@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Software Engineering student at AASTU (Class of 2028)<br> Full stack software developer<br>🌱 I’m currently focusing on scalable backend architectures, distributed systems, and robust API design<br>👥 Technical Lead at GDG & Competitive Programming Trainer at A2SV<br>💬 Ask me about Data Structures & Algorithms, Competitive Programming, and Backend Development (Python, Go, SQL)<br>⚡ Contact me: mahderashenafi68@gmail.com
+🔭 I’m a Software Engineering student at AASTU (Class of 2028) and a Full stack software developer<br>🌱 I’m currently focusing on scalable backend architectures, distributed systems, and robust API design<br>👥 Technical Lead at GDG & Competitive Programming Trainer at A2SV<br>💬 Ask me about Data Structures & Algorithms, Competitive Programming, and Backend Development (Python, Go, SQL)<br>⚡ Contact me: mahderashenafi68@gmail.com
 
 
 # 💻 Tech Stack:
